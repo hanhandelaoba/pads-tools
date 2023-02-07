@@ -1,6 +1,6 @@
 # 功能介绍
 
-## 使用 win32com模块连接PADS的COM服务器，通过COM接口操作PADS Logic或PADS PCB
+## 使用 win32com模块连接PADS的COM服务器，通过COM接口操作Mentor Graphics EDA PADS Logic或PADS PCB
 
 python -m venv pads
 
