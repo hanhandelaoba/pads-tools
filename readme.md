@@ -5,7 +5,10 @@
 python -m venv pads
 
 在pads目录下，activate 虚拟环境，然后安装以下python模块：
-pip install pywin32
+
+* pip install pywin32
+* pip install mysql-connector-python
 
 运行以下命令获取帮助信息：
+
 python pads.py -h
